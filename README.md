@@ -17,7 +17,7 @@ Python ( Flask ) , HTML / CSS ( Bootstrap ) และ Javascript โดยแส
 ## สารบัญ (List Of Contents) ✨✨
 
  - [Source Code 📜](https://awesomeopensource.com/project/elangosundar/awesome-README-templates)
- - [PDF files 📔](https://github.com/matiassingers/awesome-readme](https://github.com/t0nthxt/NSC2025-27p23i00434/blob/main/NSC-PDF.pdf)
+ - [PDF files 📔](https://github.com/t0nthxt/NSC2025-27p23i00434/blob/main/NSC-PDF.pdf)
 
 
 
