@@ -26,13 +26,13 @@ Python ( Flask ) , HTML / CSS ( Bootstrap ) และ Javascript โดยแส
 1. ดาวน์โหลดโปรเจกต์ผ่าน git clone 
 
 ```bash
-  git clone https://link-to-project
+  git clone https://link-to-project](https://github.com/t0nthxt/NSC2025-27p23i00434.git
 ```
 
 2. เข้าไปที่ Project Directory
 
 ```bash
-  cd my-project
+  cd NSC2025-27p23i00434
 ```
 
 3. ติดตั้ง Library ที่ใช้งานภายในโปรเจกต์
