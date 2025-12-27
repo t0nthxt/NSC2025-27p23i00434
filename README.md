@@ -23,25 +23,11 @@ Python ( Flask ) , HTML / CSS ( Bootstrap ) และ Javascript โดยแส
 
 ## การติดตั้งโปรแกรม (Installation) ⏬
 
-1. ดาวน์โหลดโปรเจกต์ผ่าน git clone 
+1. ดาวน์โหลด Source Code ของโปรเจกต์ผ่าน [google drive](https://drive.google.com/drive/folders/1omxLxhTmZDVtzVU37ZE4rYBnYgmTLBEc?usp=sharing)
 
-```bash
-  git clone https://link-to-project](https://github.com/t0nthxt/NSC2025-27p23i00434.git
-```
+2. ติดตั้ง Library ที่ใช้งานภายในโปรเจกต์
 
-2. เข้าไปที่ Project Directory
-
-```bash
-  cd NSC2025-27p23i00434
-```
-
-3. ติดตั้ง Library ที่ใช้งานภายในโปรเจกต์
-
-```bash
-  npm install
-```
-
-4. เชื่อมต่อ usb กับ Hardware แล้วจึงรันไฟล์ main.py เพื่อรันโปรเจกต์ 
+3. เชื่อมต่อ usb กับ Hardware แล้วจึงรันไฟล์ main.py เพื่อรันโปรเจกต์ 
 
 
 ```bash
